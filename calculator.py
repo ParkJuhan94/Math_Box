@@ -10,5 +10,5 @@ def subtract(a,b):
 def multiply(a,	b):
 	return a*b
 
-def divide(a, b):
+def divide(a, b):	# 나머지가 아닌 몫
 	return a/b
